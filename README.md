@@ -39,7 +39,7 @@ The sickest booter tool on the market — built to crush servers, drop connectio
 📥 How to use?
 1. Input IP 🔍
 
-2. Enter Port 🎯
+2. Enter Port 🎯 (0 if none)
 
 3. Set Power (max 1000 fent mg) 💊
 
